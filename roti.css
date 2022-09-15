@@ -1,0 +1,23 @@
+p {font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;}
+a {text-decoration: none;}
+body {background-image: url(herringbone.png);size: 300px;}  
+ol li a {font-family: Arial, Helvetica, sans-serif;}  
+.hello:link {color: blue; font-weight: bold;}
+.hello2:link {color: blue; font-weight: bold;}
+.hello3:link {color: blue; font-weight: bold;}
+.gas:link {color: blue; font-weight: bold;}
+.gas2:link {color: blue; font-weight: bold;}
+.gas3:link {color: blue; font-weight: bold;}
+ul li a:active  {color: chartreuse;}
+ul li a:visited {color: forestgreen;}
+
+ul li a:nth-child(3n-1) {font-family: Verdana, Geneva, Tahoma, sans-serif; color: fuchsia;}
+span {background-color: darkmagenta; color: darkorange;}
+.tas {display: block;}
+
+
+
+
